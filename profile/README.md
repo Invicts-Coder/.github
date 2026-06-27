@@ -11,7 +11,7 @@ We believe that the best way to master software engineering is by solving real p
 * **For Professionals:** An environment focused on building a high-level portfolio, solid software architecture (focus on OOP, unit testing) and system optimization.
 * **For Students and Beginners:** A direct bridge between academic theory and the job market. Here you don't just do tutorials; you contribute, make mistakes, fix and learn in projects that simulate real life.
 
-## 💻 What Do We Build?
+## What Do We Build?
 
 Our projects seek to solve everyday problems with a focus on performance and low resource consumption. Our main areas of activity include:
 
@@ -50,7 +50,7 @@ All help is welcome, whether you're a senior developer or someone in their secon
 4. Write your code (remember to run/add the tests!).
 5. Open a **Pull Request** detailing the changes you made.
 
-## 🌐 Connect with the Community
+## Connect with the Community
 
 Do you want to code with us, ask questions about an issue or suggest a new project?
 * free.coder.invicts@gmail.com
